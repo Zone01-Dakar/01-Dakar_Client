@@ -1,6 +1,6 @@
 node_modules/
 jspm_packages/
-main.js
+main.mjs
 note
 *.diff
 *.graphql
